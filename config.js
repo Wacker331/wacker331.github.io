@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'music',
-			link: 'https://music.yandex.ru/home',
+			name: 'ChatGPT',
+			icon: 'brain',
+			link: 'https://chat.openai.com/',
 		},
 		{
 			id: '2',
@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Vk',
+			name: 'VK',
 			icon: 'instagram',
 			link: 'https://vk.com',
 		},
@@ -166,11 +166,11 @@ const CONFIG = {
 				},
 				{
 					name: '1',
-					link: 'https://drive.google.com/drive/folders/1stojC8o6qE4pTUCdL_nOcxS-6PC9fx4_',
+					link: 'https://drive.google.com/drive/folders/12rOBpiM9n0VHnR5gN5VkzHjnQEoZEDLL',
 				},
 				{
 					name: '2',
-					link: 'https://drive.google.com/drive/folders/1zGAmFJ2105otV_T5c2Hep6PgNeKW_HWM',
+					link: 'https://drive.google.com/drive/folders/1JUDFP93ows1TnEhB3OEUAHpXPGsMlPcl',
 				},
 				{
 					name: 'Chat',
