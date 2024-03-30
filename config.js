@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'ChatGPT',
+			name: 'Google Brain',
 			icon: 'brain',
-			link: 'https://chat.openai.com/',
+			link: 'https://aistudio.google.com/app',
 		},
 		{
 			id: '2',
