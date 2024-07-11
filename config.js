@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'iCloud',
-			icon: 'cloud',
-			link: 'https://www.icloud.com/',
+			name: 'Telegram',
+			icon: 'send',
+			link: 'https://web.telegram.org/k/',
 		},
 		{
 			id: '6',
