@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Chat',
-					link: 'https://chat.openai.com/chat',
+					link: 'https://chatgpt.com/',
 				},
 			],
 		},
