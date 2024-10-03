@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Доброй ночи,',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'ac07988c51ca4cf112b2482147e18399', // Write here your API Key
@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '30',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
 	changeThemeByOS: false,
@@ -98,33 +98,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/wacker331/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'GPT',
+			icon: 'brain-circuit',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Google Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/drive/my-drive',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'KinoPoisk',
+			icon: 'popcorn',
+			link: 'https://hd.kinopoisk.ru/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Love',
+			icon: 'heart',
+			link: '',
 		},
 	],
 
